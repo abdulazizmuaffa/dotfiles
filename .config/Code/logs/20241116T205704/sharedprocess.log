@@ -1,0 +1,14 @@
+2024-11-16 20:57:11.344 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-16 20:57:12.594 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/meyuzee/.vscode/extensions/extensions.json","path":"/home/meyuzee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-16 20:57:14.278 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 26ms.
+2024-11-16 20:57:15.351 [info] Extracted extension to file:///home/meyuzee/.vscode/extensions/pkief.material-icon-theme-5.14.1: pkief.material-icon-theme
+2024-11-16 20:57:15.356 [info] Renamed to /home/meyuzee/.vscode/extensions/pkief.material-icon-theme-5.14.1
+2024-11-16 20:57:15.373 [info] Marked extension as uninstalled pkief.material-icon-theme-5.13.0
+2024-11-16 20:57:15.382 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/meyuzee/.vscode/extensions/extensions.json
+2024-11-16 20:57:15.445 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/meyuzee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/meyuzee/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

@@ -1,0 +1,3 @@
+//@theme "~/.local/share/rofi/themes/arc_dark_transparent_colors.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+@theme "/home/meyuzee/.local/share/rofi/themes/arc_dark_colors.rasi"

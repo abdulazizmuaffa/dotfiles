@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-shellscript=xed.desktop;
+video/x-matroska=vlc.desktop;
+inode/directory=code.desktop;
+
+[Default Applications]
+video/x-matroska=vlc.desktop

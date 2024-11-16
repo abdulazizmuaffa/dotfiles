@@ -1,0 +1,13 @@
+2024-11-16 21:38:22.536 [info] Extension host with pid 9169 started
+2024-11-16 21:38:22.536 [info] Skipping acquiring lock for /home/meyuzee/.config/Code/User/workspaceStorage/e5a81ba34d7c5255a2cce7e573bd18ad.
+2024-11-16 21:38:23.522 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-16 21:38:23.921 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-16 21:38:23.931 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-11-16 21:38:24.205 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-16 21:38:24.468 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-16 21:38:24.891 [info] Eager extensions activated
+2024-11-16 21:38:25.091 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-16 21:38:25.099 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-16 21:38:25.159 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-16 21:38:25.488 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-11-16 21:38:26.924 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

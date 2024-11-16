@@ -1,0 +1,12 @@
+2024-11-08 20:01:50.901 [info] update#setState idle
+2024-11-08 20:02:16.097 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-08 20:02:18.477 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-11-08 20:02:20.820 [info] update#setState checking for updates
+2024-11-08 20:02:20.836 [info] update#setState available for download
+2024-11-08 20:12:26.000 [info] Extension host with pid 10036 exited with code: 0, signal: unknown.
+2024-11-08 20:12:26.073 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown
+2024-11-08 20:42:33.099 [info] Extension host with pid 11524 exited with code: 0, signal: unknown.
+2024-11-08 20:42:34.639 [error] Extension host with pid 11524 still exists, forcefully killing it...
+2024-11-08 20:42:34.660 [error] [UtilityProcessWorker]: terminated unexpectedly with code 82, signal: unknown

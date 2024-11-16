@@ -1,0 +1,8 @@
+2024-11-06 22:34:35.084 [info] Started local extension host with pid 66899.
+2024-11-06 22:34:35.372 [info] Started initializing default profile extensions in extensions installation folder. file:///home/meyuzee/.vscode-oss/extensions
+2024-11-06 22:34:35.949 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/meyuzee/.vscode-oss/extensions
+2024-11-06 22:34:38.611 [info] [perf] Render performance baseline is 45ms
+2024-11-06 22:34:52.601 [error] [network] #5: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-11-06 22:34:53.021 [error] [network] #6: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-11-06 22:34:55.304 [error] [network] #8: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-11-06 22:35:16.154 [error] [network] #13: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled

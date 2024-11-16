@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.stickyScroll.enabled": false,
+    "explorer.confirmDelete": false
+}
